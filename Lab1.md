@@ -26,3 +26,11 @@ It ensures that open source software to be neutrual, fair, and free of distribut
 ![Alt text](https://cloud.githubusercontent.com/assets/6697754/9755986/8c3dfe96-56a4-11e5-9fa7-cb4d6a3f7bcc.png)
 ![Alt text](https://cloud.githubusercontent.com/assets/6697754/9755989/8e446536-56a4-11e5-98b0-6ab5ffd3ce41.png)
 ![Alt text](https://cloud.githubusercontent.com/assets/6697754/9755990/8fa65808-56a4-11e5-8de8-aeecbe7cb65c.png)
+
+**9.**
+
+![Alt text](https://cloud.githubusercontent.com/assets/6697754/9789044/8ce147fc-579b-11e5-8597-bd8d2ada4009.png)
+
+**10.**
+
+I'm sort of interested in game development. And I've did my search when trying to look for the engine. And as far as I know there is the cocos-2D series that is an open source library. I was thinking if I could do something for it. 
