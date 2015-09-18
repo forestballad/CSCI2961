@@ -1,6 +1,6 @@
 **Part 1**
 
-Repo url
+Repo URL:
 
 https://github.com/forestballad/Exercise01
 
@@ -12,3 +12,13 @@ gitk gives only the information of current branch. gitk --all gives the informat
 ![Alt text](https://cloud.githubusercontent.com/assets/6697754/9966032/d72303c0-5e29-11e5-861e-e4f899783472.png)
 
 git log is the same as gitk.
+
+**Part 2**
+
+Spoon-Knfie URL:
+
+https://github.com/forestballad/Spoon-Knife
+
+**Part 3**
+
+Exercise as a table: https://github.com/bennyty/Story
