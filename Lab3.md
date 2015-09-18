@@ -19,6 +19,8 @@ Spoon-Knfie URL:
 
 https://github.com/forestballad/Spoon-Knife
 
+![Alt text](https://cloud.githubusercontent.com/assets/6697754/9966555/0e8b30be-5e2d-11e5-9806-801d9db25799.png)
+
 **Part 3**
 
 Exercise as a table: https://github.com/bennyty/Story
