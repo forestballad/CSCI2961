@@ -1,1 +1,5 @@
-
+![step 3 - 2](https://cloud.githubusercontent.com/assets/6697754/10253617/52871f82-690c-11e5-83af-aa81e56c713f.png)
+![step 4 - 1](https://cloud.githubusercontent.com/assets/6697754/10253615/52852aec-690c-11e5-84d3-d469b2e2d53d.png)
+![step 4 - 2](https://cloud.githubusercontent.com/assets/6697754/10253616/5285eb3a-690c-11e5-8138-d605ad231d8d.png)
+![step 5 - 1](https://cloud.githubusercontent.com/assets/6697754/10253618/52891bf2-690c-11e5-9e60-4eba4c1b7f6e.png)
+![step 5 - 2](https://cloud.githubusercontent.com/assets/6697754/10253619/528ae9e6-690c-11e5-851e-b21a309a4454.png)
