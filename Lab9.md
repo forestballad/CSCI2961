@@ -1,4 +1,4 @@
-Overall Status
+**Overall Status**
 
 ![survival](https://cloud.githubusercontent.com/assets/6697754/11588530/585126c8-9a4f-11e5-9149-359e339a2096.png)
 
@@ -6,7 +6,7 @@ Overall Status
 
 ![2 - survival](https://cloud.githubusercontent.com/assets/6697754/11589277/48ef3840-9a55-11e5-9a6e-82bef101f832.png)
 
-Relationship
+**Relationship**
 
 ![3 - all](https://cloud.githubusercontent.com/assets/6697754/11589279/4a367f74-9a55-11e5-8dfa-cfe1e71beb51.png)
 
@@ -18,7 +18,7 @@ Relationship
 
 ![7 - children](https://cloud.githubusercontent.com/assets/6697754/11589290/58d6bada-9a55-11e5-8138-df8b0af6b3e4.png)
 
-Graph Plotting
+**Graph Plotting**
 
 ![8 - scatter](https://cloud.githubusercontent.com/assets/6697754/11589294/5ae6dc42-9a55-11e5-98db-976a1d37da8a.png)
 
