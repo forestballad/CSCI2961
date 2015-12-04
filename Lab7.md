@@ -1,11 +1,12 @@
-**1. Project Selection**
+**1. Hand count**
+
 Module Game Engine(Unable to open repository?)
 
 EVE Online Market Analysis Tool
 
 Number of contributors: 7 
 
-Number of lines of code:
+Number of lines of code: 302334
 
 First and last commit: Type ID … funnymanpatrick committed on Feb 10
 
@@ -15,7 +16,7 @@ LifeSim
 
 Number of contributors:5
 
-Number of lines of code:
+Number of lines of code: 212739
 
 First and last commit:Initial commit to add default .gitIgnore and .gitAttribute files. Behemyth committed on Sep 15
 
@@ -25,7 +26,7 @@ True VR
 
 Number of contributors: 2
 
-Number of lines of code:
+Number of lines of code: 591518
 
 First and last commit:  Update LICENSE.md by paulchorba committed on Sep 15 
 
@@ -35,12 +36,16 @@ Trellis
 
 Number of contributors: 1
 
-Number of lines of code:
+Number of lines of code: 3642
 
 First and last commit: Initial commit AttilaTheFun committed on Aug 30 
 
 Got rid of lazy loading AttilaTheFun committed 20 days ago
+
+
 **2. Gitstats**
+
+
 EVE Online Market Analysis Tool :
 
 Contributer: 8
