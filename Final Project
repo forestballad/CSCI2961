@@ -1,8 +1,7 @@
-Folloing the official installaion guide for Windows I found some problem.
+Following the official installaion guide for Windows I found some problem.
 
 **1. Do no use Windows command line.**
 
-2. MongoDB seems changed it's folder structure. If it is installed by .msi file, the mongod.exe would be under MongoDB\Server\3.0\bin instead of MongoDB\bin.
-The zip version doesn't have a bin folder. 
+2. MongoDB seems changed it's folder structure. If it is installed by .msi file, the mongod.exe would be under MongoDB\Server\3.0\bin instead of MongoDB\bin. The zip version doesn't have a bin folder. I did it with installation.
 
 3. Use a shell(Such as git shell). Navigate into the HabitRPG folder first, then install npm/npm global/bower or anything. The windows command line won't be able to understand the bower command. However CMD is capable of holding a mongoDB server session. 
